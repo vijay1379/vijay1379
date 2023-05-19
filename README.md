@@ -2,7 +2,7 @@
 <h3 align="center">I'am a Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay1379&label=Profile%20views&color=0e75b6&style=flat" alt="vijay1379" /> </p>
-<img align="right" src="https://github.com/vijay1379/vijay1379/blob/64690b437e42fd7ee131a244415ac9fcc96b2325/0690e95e60f5.png" alt="ria-monga" height="400" style="max-width: 100%;">
+<img align="right" src="https://github.com/vijay1379/vijay1379/blob/3fb9bf2fe037b4f22a631b8f452e861349e2b35a/0690e95e60f5.png" alt="ria-monga" height="400" style="max-width: 100%;">
 
  # 💫 About Me:
 - 🔭 I’m currently studying at **Gitam University Banglore**
