@@ -7,11 +7,11 @@
  # 💫 About Me:
 - 🔭 I’m currently studying at **Gitam University Banglore**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **Cloud Projects**
+- 👯 I’m looking to collaborate on **Projects**
 
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I’m looking for help with **Deep Learning**
 
 - 💬 Ask me about **HTML**
 
@@ -19,7 +19,7 @@
 
 # Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vijaykumar-vk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijaykumar-vk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vijaykumarn-me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijaykumar-vk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
